@@ -1,0 +1,43 @@
+1= learn hello word
+2= all unwanted command hide using using(@echo off)
+3=change title using (Title) command
+4=change color using (color) command
+5=set value using (set variablename=value) & set numeric 
+value using (set /a variablename=value) and print using
+(echo %variablename%)
+6=learn predefine variables
+7=pridefine variable using (set /p variablename=name)
+8=creating calculator
+9=Learn Line break using (echo.)
+10=Learn append using ( &echo )
+11=Comments using ( rem And :: )
+12=if else using ( if (condition) statement else (statement)
+13=labels using ( :lablename )
+13=goto using (goto) function
+14=clear screen using ( cls ) command
+15=chheak file exist or not using (exist) command
+16=open file using (filename" and "any location)
+17=change directory using (cd) Command 
+18=not operator using ( not ) Command
+19=Learn For Loop using (for %%entername in (x,y,z) do echo %%y )
+   Example for %%y in (1,2,5) do echo %%y
+   - Looping Through Range example for %%y in (0,10.100) do echo %%y
+20=Genrate a Random Number using (%random%) function
+21=print date and Time using (%date%) and (%time%) Command
+22=cheak host are open or not using (ping) Command
+  -pause the  output using (ping 127.0.0.1 -n 6 >null) this command
+23=Create a Folder using (md and mkdir) command
+  -Create a unlimited folder using lable
+24=Delete Folder using (rd or rmdir) Command
+25=Delete one file Example( del a.txt )
+  -Delate all files Example (del *.txt)
+26=rename folder using (rename foldername newname)
+27=renaeme one file using (ren filename&extention newname&extention)
+  -renaeme all files using (ren *.extention *.extention)
+28=overwrite the file using (>) % append the file using (>>)
+29=Change Attribute(Permission) using ( attrib +r/h or -r/h) 
+30=kill Processes using (taskkill /im filename /f)
+31=find registery key using (reg query registery name)
+  -for find registery name search regedit in windows
+32=Close Batch File Using ( exit ) Command    
+
